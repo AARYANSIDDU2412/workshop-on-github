@@ -31,3 +31,6 @@ sno|Name|type
 3|hemanth|klu thop
 4|akhila|junior
 5|harshi|pitchi
+
+~~this is strike thrown sentence~~
+
