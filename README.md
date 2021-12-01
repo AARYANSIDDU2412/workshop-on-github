@@ -37,8 +37,8 @@ sno|Name|type
 >text that is quote
 
 some basic git commands are:
-'''
+```
 git status
 git add
 git commit
-'''
+```
