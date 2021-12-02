@@ -31,6 +31,7 @@ sno|Name|type
 3|hemanth|klu thop
 4|akhila|sambarjunior klu pro
 5|harshi|manchi pilla22
+6|uday|dashfellow muslim mowa biryanibabai
 
 ~~this is strike thrown sentence~~
 
