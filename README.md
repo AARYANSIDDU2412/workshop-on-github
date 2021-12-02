@@ -26,10 +26,10 @@
 
 sno|Name|type
 ----|----|----
-1|Aryan|teda gadu
+1|Aryan|manchodu
 2|anil|comited person
 3|hemanth|klu thop
-4|akhila|junior
+4|akhila|sambarjunior klu pro
 5|harshi|pitchi
 
 ~~this is strike thrown sentence~~
